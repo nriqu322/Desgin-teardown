@@ -27,3 +27,53 @@ nav li:hover {
   cursor: pointer;
   color: #171616;
 }
+
+.article-container-a {
+  display: grid;
+  grid-template-columns: 50% 50%;
+  width: 100%;
+  height: 1200px;
+  background-color: #4a4846;
+  font-family: Cambay, Helvetica, sans-serif;
+}
+
+.article-section {
+  width: 100%;
+  height: 1200px;
+  background-color: #5c5956;
+  display: grid;
+  grid-template-rows: 50% 50%;
+}
+
+.inner-article-a {
+  background-color: #706d6b;
+  width: 100%;
+  height: 100%;
+}
+
+.inner-article-b {
+  background-color: #545250;
+  width: 100%;
+  height: 100%;
+}
+
+.author-name {
+  font-size: 26px;
+}
+
+.feature-article {
+  width: 70%;
+  margin: auto;
+  margin-top: 15%;
+  line-height: 3em;
+}
+
+.feature-article h1 {
+  font-size: 38px;
+  font-weight: 700;;
+}
+
+.hashtag {
+  font-size: 16px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
