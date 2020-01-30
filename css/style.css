@@ -58,6 +58,9 @@ nav li:hover {
 }
 
 .author-name {
+  position: relative;
+  left: 10px;
+  bottom: 10px;
   font-size: 26px;
 }
 
@@ -76,4 +79,10 @@ nav li:hover {
 .hashtag {
   font-size: 16px;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.article-thumbnail {
+  width: 65px;
+  transform: rotate(-20deg);
+  margin: 10px;
 }
