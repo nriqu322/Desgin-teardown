@@ -33,8 +33,14 @@ nav li:hover {
   grid-template-columns: 50% 50%;
   width: 100%;
   height: 1200px;
-  background-color: #4a4846;
   font-family: Cambay, Helvetica, sans-serif;
+}
+
+.article-container-b {
+  display: grid;
+  grid-template-columns: 25% 25% 25% 25%;
+  width: 100%;
+  height: 450px;
 }
 
 .article-section {
@@ -53,6 +59,12 @@ nav li:hover {
 
 .inner-article-b {
   background-color: #545250;
+  width: 100%;
+  height: 100%;
+}
+
+.inner-article-c {
+  background-color: #7a7676;
   width: 100%;
   height: 100%;
 }
@@ -86,3 +98,4 @@ nav li:hover {
   transform: rotate(-20deg);
   margin: 10px;
 }
+
