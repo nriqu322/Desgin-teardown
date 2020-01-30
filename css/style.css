@@ -19,11 +19,8 @@ nav li {
   padding: 10px;
   font-family: Cambay, Helvetica, sans-serif;
   font-size: 24px;
-}
-
-.website_logo {
-  position: relative;
   text-align: center;
+  margin-top: 20px;
 }
 
 nav li:hover {
