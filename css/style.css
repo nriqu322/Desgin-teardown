@@ -25,3 +25,8 @@ nav li {
   position: relative;
   text-align: center;
 }
+
+nav li:hover {
+  cursor: pointer;
+  color: #171616;
+}
