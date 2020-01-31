@@ -201,3 +201,29 @@ nav li:hover {
   text-decoration: none;
   color: #383636;
 }
+
+.article-container-e {
+  width: 100%;
+  height: 800px;
+  text-align: center;
+  background-color: #5c5956;
+  font-family: Cambay;
+  padding: 50px;
+}
+
+.article-container-e h1 {
+  font-size: 45px;
+}
+
+.article-container-e p {
+  font-size: 24px;
+}
+
+.r-date {
+  font-size: 20px;
+}
+
+.sec-e-img {
+  width: 280px;
+  height: 400px;
+}
