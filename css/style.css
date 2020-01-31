@@ -28,6 +28,18 @@ nav li {
   margin-top: 20px;
 }
 
+.header-txt {
+  position: absolute;
+  background-color: #fff;
+  top: 150px;
+  left: 35%;
+}
+
+.header-txt h1 {
+  color: #383636;
+  font-size: 36px;;
+}
+
 .article-container-a {
   display: grid;
   grid-template-columns: 50% 50%;
