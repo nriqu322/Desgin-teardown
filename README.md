@@ -34,9 +34,9 @@ You can find the original project specification at: https://www.theodinproject.c
 
 👤 **Elbie Moonga**
 
-- GitHub: [@Elbie-Em] (https://github.com/Elbie-em)
-- Twitter: [ElbieEm] (https://twitter.com/ElbieEm)
-- LinkedIn: [elbie-moonga] (https://www.linkedin.com/in/elbie-moonga-253bbb12b/)
+- GitHub: [@Elbie-Em](https://github.com/Elbie-em)
+- Twitter: [ElbieEm](https://twitter.com/ElbieEm)
+- LinkedIn: [elbie-moonga](https://www.linkedin.com/in/elbie-moonga-253bbb12b/)
 
 
 ## 🤝 Contributing
