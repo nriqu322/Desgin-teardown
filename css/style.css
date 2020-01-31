@@ -263,7 +263,7 @@ nav li:hover {
   flex-direction: row;
   width: 100%;
   height: 900px;
-  background-color: #858381
+  background-color: #858381;
 }
 
 .inner-article-container-g {
@@ -289,3 +289,46 @@ nav li:hover {
   width: 80%;
   font-size: 24px;
 }
+
+.article-container-h {
+  width: 100%;
+  height: 400px;
+  background-color: #383636;
+  padding: 50px;
+  font-family: Cambay, Arial, Helvetica, sans-serif;
+}
+
+.article-container-h-left {
+  float: left;
+  width: 75%;
+  height: 400px;
+  font-family: Cambay, Arial, Helvetica, sans-serif;
+}
+
+.article-container-h-left h4 {
+  font-size: 20px;
+}
+
+.article-container-h-left h1 {
+  font-size: 45px;
+}
+
+.article-container-h-left p {
+  font-size: 20px;
+}
+
+.article-container-h-right {
+  float: right;
+  width: 25%;
+  height: 400px;
+  padding-left: 30px;
+}
+
+.link-container {
+  display: grid;
+  grid-template-columns: 33.3% 33.3% 33.4%;
+  width: 100%;
+  height: 600px;
+  background-color: #858381;
+}
+
