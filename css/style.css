@@ -257,3 +257,35 @@ nav li:hover {
   transform: rotate(-15deg);
   margin-top: 18px;
 }
+
+.article-container-g {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  height: 900px;
+  background-color: #858381
+}
+
+.inner-article-container-g {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  height: 900px;
+}
+
+.inner-article-comments {
+  width: 100%;
+  height: 300px;
+  padding: 15px;
+}
+
+.inner-article-comments img {
+  float: left;
+  margin: 25px;
+}
+
+.inner-right {
+  float: right;
+  width: 80%;
+  font-size: 24px;
+}
