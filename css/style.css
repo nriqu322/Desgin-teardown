@@ -95,7 +95,7 @@ nav li:hover {
 
 .article-container-b {
   display: grid;
-  grid-template-columns: 33.3% 33.3% 33.4%;
+  grid-template-columns: 25% 25% 25% 25%;
   width: 100%;
   height: 450px;
 }
