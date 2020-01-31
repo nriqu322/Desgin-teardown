@@ -349,3 +349,38 @@ nav li:hover {
   text-decoration: underline;
   line-height: 1.7em;
 }
+
+.container-i {
+  width: 100%;
+  height: 800px;
+  background-color: #b5b5b0;
+}
+
+.article-container-i {
+  position: relative;
+  top: 35px;
+  width: 80%;
+  height: 90%;
+  background-color: #474745;
+  border-radius: 20px;
+  text-align: center;
+  margin: auto;
+  padding: 10px;
+}
+
+.article-container-i h1 {
+  font-size: 40px;
+  font-family: Cambay, Arial, Helvetica, sans-serif;
+}
+
+.article-container-i p {
+  font-size: 20px;
+}
+
+.musician {
+  width: 400px;
+}
+
+.unsubscribe {
+  font-size: 14px;
+}
