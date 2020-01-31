@@ -135,3 +135,47 @@ nav li:hover {
   font-weight: 200;
   font-size: 25px;
 }
+
+.article-container-c {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  height: 600px;
+}
+
+.container-sec-a {
+  background-color: #383636;
+  width: 50%;
+  height: 500px;
+  margin: 10px;
+  border-radius: 10px;
+  text-align: center;
+  padding: 50px;
+}
+
+.container-sec-a h1 {
+  font-size: 34px;
+}
+
+.container-sec-a p {
+  font-size: 26px;
+}
+
+.container-sec-b {
+  width: 25%;
+  height: 500px;
+  background-color: #757272;
+  margin: 5px;
+} 
+
+.white-square {
+  width: 170px;
+  height: auto;
+}
+
+.btn {
+  border-radius: 13px;
+  background-color: #fff;
+  color: #545250;
+  padding: 10px;
+}
