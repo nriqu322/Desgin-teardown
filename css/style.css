@@ -13,6 +13,11 @@ nav {
   background-color: #858381;
 }
 
+li:hover {
+  cursor: pointer;
+  color: #171616;
+}
+
 nav li {
   display: inline-block;
   width: 14%;
@@ -21,11 +26,6 @@ nav li {
   font-size: 24px;
   text-align: center;
   margin-top: 20px;
-}
-
-nav li:hover {
-  cursor: pointer;
-  color: #171616;
 }
 
 .article-container-a {
@@ -383,4 +383,26 @@ nav li:hover {
 
 .unsubscribe {
   font-size: 14px;
+}
+
+footer {
+  background-color: #545250;
+  width: 100%;
+  height: 600px;
+  text-align: center;
+  padding-top: 60px;
+}
+
+footer h4 {
+  font-size: 16px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+footer ul li {
+  display: inline;
+  font-size: 24px;
+}
+
+.contact {
+  text-decoration: underline;
 }
