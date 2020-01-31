@@ -140,13 +140,20 @@ nav li:hover {
   display: flex;
   flex-direction: row;
   width: 100%;
-  height: 600px;
+  height: 510px;
+}
+
+.article-container-d {
+  display: flex;
+  flex-direction: row-reverse;
+  width: 100%;
+  height: 510px;
 }
 
 .container-sec-a {
   background-color: #383636;
   width: 50%;
-  height: 500px;
+  height: 490px;
   margin: 10px;
   border-radius: 10px;
   text-align: center;
@@ -166,7 +173,7 @@ nav li:hover {
   height: 500px;
   background-color: #757272;
   margin: 5px;
-} 
+}
 
 .white-square {
   width: 170px;
@@ -178,4 +185,19 @@ nav li:hover {
   background-color: #fff;
   color: #545250;
   padding: 10px;
+}
+
+.external-link {
+  width: 100%;
+  height: 150px;
+  text-align: center;
+  padding-top: 80px;
+  font-size: 25px;
+  background-color: #e0dada;
+  font-family: Cambay;
+}
+
+.external-link a {
+  text-decoration: none;
+  color: #383636;
 }
