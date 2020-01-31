@@ -13,11 +13,6 @@ nav {
   background-color: #858381;
 }
 
-li:hover {
-  cursor: pointer;
-  color: #171616;
-}
-
 nav li {
   display: inline-block;
   width: 14%;
@@ -26,6 +21,11 @@ nav li {
   font-size: 24px;
   text-align: center;
   margin-top: 20px;
+}
+
+nav li:hover {
+  cursor: pointer;
+  color: #171616;
 }
 
 .header-txt {
@@ -37,7 +37,7 @@ nav li {
 
 .header-txt h1 {
   color: #383636;
-  font-size: 36px;;
+  font-size: 36px;
 }
 
 .article-container-a {
@@ -91,7 +91,7 @@ nav li {
 
 .feature-article h1 {
   font-size: 38px;
-  font-weight: 700;;
+  font-weight: 700;
 }
 
 .hashtag {
@@ -103,13 +103,6 @@ nav li {
   width: 65px;
   transform: rotate(-20deg);
   margin: 10px;
-}
-
-.article-container-b {
-  display: grid;
-  grid-template-columns: 25% 25% 25% 25%;
-  width: 100%;
-  height: 450px;
 }
 
 .inner-article-c {
@@ -206,7 +199,7 @@ nav li {
   padding-top: 80px;
   font-size: 25px;
   background-color: #e0dada;
-  font-family: Cambay;
+  font-family: Cambay, Arial, Helvetica, sans-serif;
 }
 
 .external-link a {
@@ -219,7 +212,7 @@ nav li {
   height: 800px;
   text-align: center;
   background-color: #5c5956;
-  font-family: Cambay;
+  font-family: Cambay, Arial, Helvetica, sans-serif;
   padding: 50px;
 }
 
@@ -413,6 +406,11 @@ footer h4 {
 footer ul li {
   display: inline;
   font-size: 24px;
+}
+
+footer li:hover {
+  cursor: pointer;
+  color: #171616;
 }
 
 .contact {
