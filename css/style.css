@@ -13,14 +13,31 @@ nav {
   background-color: #858381;
 }
 
+.nav-left {
+  float: left;
+  padding: 30px;
+}
+
+.nav-right {
+  position: relative;
+  bottom: 35px;
+  float: right;
+  padding-right: 30px;
+}
+
 nav li {
   display: inline-block;
   width: 14%;
   padding: 10px;
-  font-family: Cambay, Helvetica, sans-serif;
-  font-size: 24px;
   text-align: center;
   margin-top: 20px;
+}
+
+nav li,
+.nav-left,
+.nav-right {
+  font-size: 24px;
+  font-family: Cambay, Helvetica, sans-serif;
 }
 
 .header-txt {
