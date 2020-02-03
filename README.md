@@ -15,7 +15,7 @@ You can find the original project specification at: https://www.theodinproject.c
 
 ## Live Demo
 
-[Live Demo Link](https://rawcdn.githack.com/nriqu322/Desgin-teardown/c960ded5da7d1992ae0e1b0550421b31fdae7281/index.html)
+[Live Demo Link](https://rawcdn.githack.com/nriqu322/Desgin-teardown/f41b82214c320cb5df65f9b8dec07371bac389d8/index.html)
 
 
 ## Getting Started
