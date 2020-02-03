@@ -5,6 +5,8 @@
 }
 
 nav {
+  display: flex;
+  flex-direction: row;
   position: relative;
   top: 0;
   left: 0;
@@ -14,14 +16,12 @@ nav {
 }
 
 .nav-left {
-  float: left;
   padding: 30px;
 }
 
 .nav-links-container {
   position: relative;
   top: 30px;
-  width: 100%;
 }
 
 .nav-links {
