@@ -16,22 +16,24 @@ nav {
 .nav-left {
   float: left;
   padding: 30px;
+  width: 20%;
 }
 
 .nav-links-container {
   position: relative;
   top: 30px;
+  width: 100%;
 }
 
 .nav-links {
   padding: 30px;
-  padding-left: 65px;
-  padding-right: 65px;
+  padding-left: 50px;
+  padding-right: 50px;
 }
 
 .nav-links,
 .nav-left {
-  font-size: 30px;
+  font-size: 25px;
   font-family: Cambay, Helvetica, sans-serif;
 }
 
