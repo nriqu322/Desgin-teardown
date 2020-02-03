@@ -16,7 +16,6 @@ nav {
 .nav-left {
   float: left;
   padding: 30px;
-  width: 20%;
 }
 
 .nav-links-container {
@@ -27,8 +26,6 @@ nav {
 
 .nav-links {
   padding: 30px;
-  padding-left: 50px;
-  padding-right: 50px;
 }
 
 .nav-links,
@@ -41,7 +38,7 @@ nav {
   position: absolute;
   background-color: #fff;
   top: 150px;
-  left: 35%;
+  left: 30%;
 }
 
 .header-txt h1 {
